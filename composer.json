@@ -3,7 +3,7 @@
     "description": "Symfony Bundle For MangoPay V2.1",
     "type": "symfony-bundle",
     "require": {
-        "symfony/symfony": "~2.7",
+		"symfony/framework-bundle": "~2.3",
         "mangopay/php-sdk-v2": "2.1"
     },
     "license": "MIT",
