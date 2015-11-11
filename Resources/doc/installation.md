@@ -1,7 +1,5 @@
 # MangoPayBundle
 
-To use this bundle you will need to activate ssl and curl extenstion in your PHP environment
-
 ### Step 1: Download HoussradMangoPayBundle using composer
 
 Tell composer to require HoussradMangoPayBundle by running the command:
