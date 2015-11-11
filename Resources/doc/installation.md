@@ -1,4 +1,4 @@
-# HoussradMangoPayBundle
+# MangoPayBundle
 
 To use this bundle you will need to activate ssl and curl extenstion in your PHP environment
 

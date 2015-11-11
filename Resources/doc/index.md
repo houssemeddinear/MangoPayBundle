@@ -1,5 +1,5 @@
-# HoussradMangoPayBundle
+# MangoPayBundle
 
 * [Installation](installation.md)
 * [Configuration](configuration.md)
-* [Using](using.md)
+* [Using](use.md)
