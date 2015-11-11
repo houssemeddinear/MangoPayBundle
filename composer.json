@@ -1,5 +1,5 @@
 {
-    "name": "houssrad/mangopay-bundle",
+    "name": "houssrad/mangopaybundle",
     "description": "Symfony Bundle For MangoPay V2.1",
     "type": "symfony-bundle",
     "require": {
@@ -15,5 +15,6 @@
     ],
     "autoload" : {
         "psr-0" : {"Houssrad\\MangoPayBundle" : ""}
-    }
+    },
+    "target-dir" : "Houssrad/MangoPayBundle"
 }
