@@ -1,6 +1,6 @@
 {
     "name": "houssrad/mangopaybundle",
-    "description": "Symfony Bundle For MangoPay V2.1",
+    "description": "Symfony MangoPay Bundle For MangoPay PHP-sdk-v2 - V2.1 , Wrapper for API V2.1",
     "type": "symfony-bundle",
     "require": {
 		"symfony/framework-bundle": "~2.3",
