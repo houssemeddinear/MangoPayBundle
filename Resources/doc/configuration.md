@@ -11,4 +11,4 @@ houssrad_mango_pay:
 
 You have to create a sandbox account on mangopay https://www.mangopay.com/fr/demarrez/create-sandbox/
 
-[Back to the index](index.md)
+[Back to the index](../../README.md)

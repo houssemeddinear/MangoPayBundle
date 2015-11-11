@@ -42,4 +42,4 @@ class UserMangoController
 You can find documentation of mangopay here https://docs.mangopay.com/api-references/
 And some example here http://mangopay-api-reference.colouredcow.com/usage-examples.php
 
-[Back to the index](index.md)
+[Back to the index](../../README.md)
