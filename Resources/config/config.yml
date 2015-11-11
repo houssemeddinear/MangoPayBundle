@@ -1,0 +1,5 @@
+services:
+    houssrad_api_factory:
+        class: %houssrad_mango_pay.api_factory_class%
+        arguments: 
+            - @service_container

@@ -1,0 +1,19 @@
+{
+    "name": "houssrad/mangopay-bundle",
+    "description": "Symfony Bundle For MangoPay V2.1",
+    "type": "symfony-bundle",
+    "require": {
+        "symfony/symfony": "~2.7",
+        "mangopay/php-sdk-v2": "2.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ARFAOUI HoussemEddine",
+            "email": "arfaouihousseme@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {"Houssrad\\" : "Houssrad"}
+    }
+}
