@@ -14,6 +14,6 @@
         }
     ],
     "autoload" : {
-        "psr-4" : {"Houssrad\\" : "Houssrad"}
+        "psr-0" : {"Houssrad\\MangoPayBundle" : ""}
     }
 }
